@@ -1,0 +1,23 @@
+.bodyContainer{
+    background: floralwhite;
+    height: 100vh;
+    width: 100vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutTitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.aboutParagraph {
+    font-family: monospace;
+    max-width: 25rem;
+    text-align: justify;
+}
+
+.link {
+    color: blue;
+}
